@@ -6,13 +6,14 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-``` python
-def greet(name):
-    return f"Hello, {name}!"
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
 
 
 - [x] Task1 (completed)
 - [x] Task2 (completed)
 - [ ] Task3
+
 
