@@ -4,7 +4,7 @@
 
 ### header 3
 
-![Computer](https://stuyspec-media.s3.us-east-2.amazonaws.com/rewrite_media/b5b87fe0-d701-11ed-999d-63d9c55645a1.jpg)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ``` python
 def greet(name):
@@ -15,3 +15,4 @@ def greet(name):
 - [x] Task1 (completed)
 - [x] Task2 (completed)
 - [ ] Task3
+
